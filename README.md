@@ -1,1 +1,0 @@
-# Shruti-Katpara
