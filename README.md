@@ -39,12 +39,8 @@
 
 <!-- </details> -->
 
----
-<details>
 
-  <img align="left" alt="ShrutiKatpara's GitHub Stats" src="https://github-readme-stats.ShrutiKatpara.vercel.app/api?username=ShrutiKatpara&show_icons=true&hide_border=true" />
-
-</details>
+[![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiKatpara)](https://github.com/ShrutiKatpara/github-readme-stats)
 
 [website]: https://shrutikatpara.github.io/
 [twitter]: https://twitter.com/SKatpara
