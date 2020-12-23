@@ -1,11 +1,11 @@
-### Hi, I am Shruti 👋
+# Hi, I am Shruti 👋
 
-[![Website](https://img.shields.io/website?label=ShrutiKatpara&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shrutikatpara.github.io/)
+[![Website](https://img.shields.io/website?label=ShrutiKatpara&style=for-the-badge&url=https%3A%2F%2Fshrutikatpara.github.io)](https://shrutikatpara.github.io/)
 
 ## I'm a Student and Software Developer Enthusiasts!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Increase developer networks
+- 🥅 2021 Goals: Increase developer network
 
 <!-- 
 ### Languages and Tools: 
