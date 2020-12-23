@@ -39,8 +39,8 @@
 
 <!-- </details> -->
 
+---
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="ShrutiKatpara's GitHub Stats" src="https://github-readme-stats.ShrutiKatpara.vercel.app/api?username=ShrutiKatpara&show_icons=true&hide_border=true" />
 
