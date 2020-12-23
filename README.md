@@ -40,7 +40,9 @@
 <!-- </details> -->
 
 
-[![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiKatpara)](https://github.com/ShrutiKatpara/github-readme-stats)
+[![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiKatpara&hide=prs,issues,contribs&show_icons=true&theme=onedark)](https://github.com/ShrutiKatpara/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiKatpara&layout=compact)](https://github.com/ShrutiKatpara/github-readme-stats)
 
 [website]: https://shrutikatpara.github.io/
 [twitter]: https://twitter.com/SKatpara
