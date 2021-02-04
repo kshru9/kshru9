@@ -2,10 +2,17 @@
 
 [![Website](https://img.shields.io/website?label=ShrutiKatpara&style=for-the-badge&url=https%3A%2F%2Fshrutikatpara.github.io)](https://shrutikatpara.github.io/)
 
-## I'm a Student and Software Developer Enthusiasts!!
+- ❤️ I am a software developer enthusiasts
+- ⭐ 2021 Goals:
+  - Increase developer network
+  - Contribute to open source
+  - Blogging
+- 💥Current projects: 
+  - Machine Learning: Generating fake clothing
+  - Web development: Portfolio website
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Increase developer network
+
+
 
 <!-- 
 ### Languages and Tools: 
