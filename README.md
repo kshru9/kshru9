@@ -11,36 +11,12 @@
   - Machine Learning: Generating fake clothing
   - Web development: Portfolio website
 
-<!-- 
-### Languages and Tools: 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-
-<!-- <br />
-<br /> -->
-
-<!-- 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) -->
-<!--END_SECTION:activity-->
-
-<!-- </details> -->
-
-<!-- 
-[![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiKatpara&hide=prs,issues,contribs&show_icons=true&theme=onedark)](https://github.com/ShrutiKatpara/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiKatpara&layout=compact&theme=dracula)](https://github.com/ShrutiKatpara/github-readme-stats)
 
-[![ShrutiKatpara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrutiKatpara&theme=dracula)](https://github.com/ShrutiKatpara/github-readme-stats)
+
+[![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiKatpara&hide=prs&show_icons=true&theme=onedark)](https://github.com/ShrutiKatpara/github-readme-stats)
+
 
 ### Connect with me:
 
