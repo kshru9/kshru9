@@ -11,9 +11,6 @@
   - Machine Learning: Generating fake clothing
   - Web development: Portfolio website
 
-
-
-
 <!-- 
 ### Languages and Tools: 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -43,6 +40,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiKatpara&layout=compact&theme=dracula)](https://github.com/ShrutiKatpara/github-readme-stats)
 
+[![ShrutiKatpara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrutiKatpara&theme=dracula)](https://github.com/ShrutiKatpara/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -53,5 +52,4 @@
 
 [website]: https://shrutikatpara.github.io/
 [twitter]: https://twitter.com/SKatpara
-[youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/shrutikatpara/
