@@ -12,10 +12,10 @@
   - Web development: Portfolio website
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiKatpara&layout=compact&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiKatpara&layout=compact&theme=dracula)
 
 
-[![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiKatpara&hide=prs&show_icons=true&theme=onedark)]
+![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiKatpara&hide=prs&show_icons=true&theme=onedark)
 
 
 ### Connect with me:
