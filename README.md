@@ -11,11 +11,16 @@
   - Machine Learning: Generating fake clothing
   - Web development: Portfolio website
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiKatpara&layout=compact&theme=dracula)
-
-
-![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiKatpara&hide=prs&show_icons=true&theme=onedark)
+<table width="100%">
+  <tr>
+    <td>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ShrutiKatpara&hide=prs&show_icons=true&theme=onedark" /> 
+    </td>
+    <td> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiKatpara&layout=compact&theme=dracula"/> 
+    </td>
+  </tr>
+<table>
 
 ### Connect with me:
 
