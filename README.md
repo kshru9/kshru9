@@ -14,7 +14,7 @@
 <table width="100%">
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ShrutiKatpara&hide=prs&show_icons=true&theme=onedark&hide_border=true" /> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ShrutiKatpara&show_icons=true&theme=onedark&hide_border=true" /> 
     </td>
     <td> 
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiKatpara&layout=compact&theme=dracula&hide_border=true"/> 
