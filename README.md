@@ -1,6 +1,6 @@
 # Hi, I am Shruti 👋
 
-[![Website](https://img.shields.io/website?label=ShrutiKatpara&style=for-the-badge&url=https%3A%2F%2Fshrutikatpara.github.io)](https://shrutikatpara.github.io/)
+[![Website](https://img.shields.io/website?label=ShrutiKatpara&style=for-the-badge&url=https%3A%2F%2Fkshru9.github.io)](https://kshru9.github.io/)
 
 - ❤️ I am a software developer enthusiasts
 - ⭐ 2021 Goals:
@@ -14,10 +14,10 @@
 <table width="100%">
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ShrutiKatpara&show_icons=true&theme=onedark&hide_border=true" /> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kshru9&show_icons=true&theme=onedark&hide_border=true" /> 
     </td>
     <td> 
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiKatpara&layout=compact&theme=dracula&hide_border=true"/> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshru9&layout=compact&theme=dracula&hide_border=true"/> 
     </td>
   </tr>
 <table>
@@ -34,6 +34,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ShrutiKatpara&color=brightgreen&style=flat)
 
-[website]: https://shrutikatpara.github.io/
+[website]: https://kshru9.github.io/
 [twitter]: https://twitter.com/SKatpara
 [linkedin]: https://www.linkedin.com/in/shrutikatpara/
