@@ -8,7 +8,7 @@
   - Contribute to open source
   - Blogging
 - 💥Current projects: 
-  - [ ] Machine Learning: Generating fake clothing
+  - [ ] Machine Learning: Generate fake clothing
   - [x] Web development: Portfolio website
 
 <table width="100%">
