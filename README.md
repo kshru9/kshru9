@@ -32,8 +32,6 @@
 <br/>
 <br/>
 
-![](https://komarev.com/ghpvc/?username=ShrutiKatpara&color=brightgreen&style=flat)
-
 [website]: https://kshru9.github.io/
 [twitter]: https://twitter.com/SKatpara
 [linkedin]: https://www.linkedin.com/in/shrutikatpara/
