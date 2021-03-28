@@ -8,8 +8,9 @@
   - Contribute to open source
   - Blogging
 - 💥Current projects: 
-  - [ ] Machine Learning: Generate fake clothing
+  - [ ] Machine Learning: Generate fake Indo-Western clothing
   - [x] Web development: Portfolio website
+  - [ ] Data Science: Analyzing the Social Media in India
 
 <table width="100%">
   <tr>
