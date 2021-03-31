@@ -11,6 +11,7 @@
   - [ ] Machine Learning: Generate fake Indo-Western clothing
   - [x] Web development: Portfolio website
   - [ ] Data Science: Analyzing the Social Media in India
+  - [ ] Compilers: a compiler for simple programming language
 
 <table width="100%">
   <tr>
