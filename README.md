@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=ShrutiKatpara&style=for-the-badge&url=https%3A%2F%2Fkshru9.github.io)](https://kshru9.github.io/)
 
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<img align="right" height="150" width="300" alt="programmer" src="./images/programmer.png" />
+<!--<img align="right" height="130" width="250" alt="programmer" src="./images/programmer.png" />-->
 
 
 - ❤️ I am a software developer enthusiasts
