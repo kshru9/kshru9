@@ -50,17 +50,17 @@
 <table width="100%">
   <tr>
     <td>
-      <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=kshru9&show_icons=true&theme=onedark&hide_border=true" /> -->
-      <img src="https://github.com/kshru9/furry-goggles/blob/master/generated/overview.svg" />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kshru9&show_icons=true&theme=onedark&hide_border=true" />
+      <!-- <img src="https://github.com/kshru9/furry-goggles/blob/master/generated/overview.svg" /> -->
     </td>
     <td> 
-      <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshru9&exclude_repo=DataScience-project,assignment3-ML,inffecto&layout=compact&theme=dracula&hide_border=true"/> -->
-      <img src="https://github.com/kshru9/furry-goggles/blob/master/generated/languages.svg" />
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshru9&exclude_repo=DataScience-project,assignment3-ML,inffecto&layout=compact&theme=dracula&hide_border=true"/>
+      <!-- <img src="https://github.com/kshru9/furry-goggles/blob/master/generated/languages.svg" /> -->
     </td>
   </tr>
 <table>
 
-  <i>stats generated using this <a href="https://github.com/jstrieb/github-stats">repo</a> </i>
+  <i>stats generated using this <a href="https://github.com/anuraghazra/github-readme-stats">repo</a> </i>
 
 ### Want to collaborate?
 
