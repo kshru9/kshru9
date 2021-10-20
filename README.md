@@ -3,8 +3,6 @@
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!--<img align="right" height="130" width="250" alt="programmer" src="./images/programmer.png" />-->
 
-
-- ❤️ I am a software developer enthusiasts
 - ⭐ Some of my 2021 Goals:
   - Increase developer network
   - Contribute to open source
