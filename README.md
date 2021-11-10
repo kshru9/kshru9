@@ -4,7 +4,7 @@
 <!--<img align="right" height="130" width="250" alt="programmer" src="./images/programmer.png" />-->
 
 - ⭐ Some of my 2021 Goals:
-  - Grow developer network
+  - Grow my developer network
   - Contribute to open source
   - Blogging
 
