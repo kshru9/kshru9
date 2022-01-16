@@ -44,7 +44,7 @@
 -->
 
 
-## My GitHub stats
+## GitHub stats
 
 <table width="100%">
   <tr>
