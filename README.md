@@ -3,10 +3,10 @@
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!--<img align="right" height="130" width="250" alt="programmer" src="./images/programmer.png" />-->
 
-- ⭐ Some of my 2021 Goals:
+- ⭐ Some of my 2022 Goals:
   - Grow developer network
-  - Contribute to open source
-  - Blogging
+  - Technical writing
+  - Open source contribution
 
 ## Technologies I use
 
