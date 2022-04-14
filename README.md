@@ -66,7 +66,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SKatpara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutikatpara)
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruti.katpara@iitgn.ac.in)
-[![Website](https://img.shields.io/website?label=ShrutiKatpara&style=for-the-badge&url=https%3A%2F%2Fkshru9.github.io)](https://kshru9.github.io/)
+[![Website](https://img.shields.io/website?label=ShrutiKatpara&style=for-the-badge&url=https%3A%2F%2Fkshru9.github.io)](https://kshru9.github.io/Web-Development/)
 <!-- [![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/jl314kjg2ftq006422ln2j831) -->
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
